@@ -9,10 +9,10 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
-      - uses: mdemonahmed/gitartwork@v1
+      - uses: jasineri/gitartwork@v1
         with:
           # Use this username's contribution graph
           user_name: mdemonahmed
           # Text on contribution graph
           text: EMON
-      - uses: mdemonahmed/simple-push-action@v1
+      - uses: jasineri/simple-push-action@v1
