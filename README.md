@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Web Application developer from Sylhet, Bangladesh.</h3>
 <div align="center">
 
-![Emon](gitartwork.svg)
+![EMON](gitartwork.svg)
 
 </div>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mdemonahmed&label=Profile%20views&color=0e75b6&style=flat" alt="mdemonahmed" /> </p>
